@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlyYXZ5Y3hqZHpzNzdiOTJ5ZHF5YmgxMXoybmN2a2ZwemEzdmUxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l396Hbs3ngXH92gbS/giphy.webp", width="400", height="400">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJnMnJiejY5dHNtaGxqeGxveTNmaTlmNDN0bHBpcTVjYnNtY3M4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wA6ClVin2Q37xoRIS7/giphy.webp", width="400", height="400">
 </p>
 
 <h1 align="center"> DEDSEC_PoC_FINDER</h1>
