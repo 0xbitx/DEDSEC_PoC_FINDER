@@ -13,6 +13,16 @@
 ### DESCRIPTION
 DEDSEC-PoCFinder is an cli-based tool designed to search for available Proof-of-Concept (PoC) code on the internet based on user input, such as CVE IDs, exploit names, or vulnerabilities.  it scours various online sources, databases, and repositories to locate existing PoC scripts. Security researchers and penetration testers can use this tool to quickly find and retrieve verified PoC code for testing vulnerabilities, making it easier to assess potential threats. DEDSEC-PoCFinder simplifies the process of locating reliable exploit code for effective security testing and validation.
 
+### Features
+  
+  * Dual Search Mode: Automatically detects whether you're searching for a CVE ID or exploit name
+  * Multiple Data Sources: Searches both GitHub repositories and the PoC-in-GitHub API
+  * Smart Detection: Intelligently identifies CVE formats vs exploit names
+  * Beautiful Output: Clean, formatted tables with color-coded results
+  * Repository Details: View README previews and repository information
+  * Duplicate Removal: Filters out duplicate repositories automatically
+  * No API Keys Required: Works out of the box without authentication
+
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_PoC_FINDER.git
     * cd DEDSEC_PoC_FINDER
