@@ -26,6 +26,7 @@ DEDSEC-PoCFinder is an cli-based tool designed to search for available Proof-of-
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_PoC_FINDER.git
     * cd DEDSEC_PoC_FINDER
+    * sudo pip3 install tabulate requests
     * chmod +x dedsec_poc_finder
     * sudo ./dedsec_poc_finder
 
